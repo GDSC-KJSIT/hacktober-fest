@@ -1,18 +1,18 @@
 # Introduction
 
-### Thank You 
+### Namaste! 
 
 >First off, thank you for considering contributing to GDSC KJSIEIT hacktober fest. It's people like you that make GDSC such a great club.
 
 [source: [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Read The Docs](http://read-the-docs.readthedocs.org/en/latest/contribute.html) [2] [Mustache.js](https://github.com/janl/mustache.js/#contributing)
 
-### Tell them why they should read your guidelines.
+### Why you should read the guidelines?
 
->Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+>Following these guidelines helps to communicate that you respect the time of the people building this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
 [source: [Hoodie](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)]
 
-### Explain what kinds of contributions you are looking for.
+### What kinds of contributions are we looking for?
 
 Keep an open mind! Improving documentation, bug triaging, or writing tutorials are all examples of helpful contributions that mean less work for you.
 
