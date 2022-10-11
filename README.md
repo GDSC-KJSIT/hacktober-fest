@@ -49,3 +49,9 @@ git push origin branch-name
 * 1. Write a lottery smart contract using solidity language
 * 2. Write an ecommerce smart contract using solidity language
 * 2. Create a smart contract for generating NFTs when registered products are bought by buyers.
+
+## Rules for making PULL REQUEST
+
+* 1. For web development only add folder(not files) into the folder named as Web Development with your name and same for app development,AI/ML,Blockchain problem statements
+
+* 2. For Competetive programming questions add files (any language) into the respective folder
