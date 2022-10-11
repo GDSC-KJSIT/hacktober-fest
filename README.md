@@ -55,3 +55,5 @@ git push origin branch-name
 * 1. For web development only add folder(not files) into the folder named as Web Development with your name and same for app development,AI/ML,Blockchain problem statements
 
 * 2. For Competetive programming questions add files (any language) into the respective folder
+
+* 3. Last step is to add your name and details in the md file in the respective folder
