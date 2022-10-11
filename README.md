@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hacktoberfest
 ## KickStart to Open Source Event 
 
