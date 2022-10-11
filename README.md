@@ -28,24 +28,24 @@ git push origin branch-name
 
 ## Task Details/Problem Statements
 ### A. Web Development.
-### 1.Design a Interactive Webpage which fetches News using News API
-### 2. Design User Interface for a static Blog Website  
-### 3. A Quiz Web-App using React.js
+* 1. Design a Interactive Webpage which fetches News using News API
+* 2. Design User Interface for a static Blog Website  
+* 3. A Quiz Web-App using React.js
 
 ### B. App Development.
-### 1. Create a password manager app
-### 2 . Medicine tracker/ Reminder app
-### 3 . Food Ordering app
+* 1. Create a password manager app
+* 2. Medicine tracker/ Reminder app
+* 3. Food Ordering app
 
 ### C. Competetive Programming
-### 1 . It is interesting to find the factorial of a number, and calculating it is also not a big deal. But geeks it is the hacktober fest  and you have to calculate the factorial using recursion in any language. 
-### 2. 
+* 1. It is interesting to find the factorial of a number, and calculating it is also not a big deal. But geeks it is the hacktober fest  and you have to calculate the factorial using recursion in any language. 
+* 2. 
 
 ### D. AI/ML
-### 1. Face detection logic in any language
-### 2. Data Prdeiction Model for any business purchase
+* 1. Face detection logic in any language
+* 2. Data Prdeiction Model for any business purchase
 
 ### E. Blockchain
-### 1. Write a lottery smart contract using solidity language
-### 2. Write an ecommerce smart contract using solidity language
-### 2. Create a smart contract for generating NFTs when registered products are bought by buyers.
+* 1. Write a lottery smart contract using solidity language
+* 2. Write an ecommerce smart contract using solidity language
+* 2. Create a smart contract for generating NFTs when registered products are bought by buyers.
