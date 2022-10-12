@@ -1,6 +1,8 @@
-Name - Taaha Multani
-College - K J Somaiya College of Engineering and Information Technology
-Branch - COMPS
-Domain - CP
+### Enter your name college branch and in short what pull request you made for this folder
 
-Initial PR
+1. * Name - Taaha Multani
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - COMPS
+   * Domain - CP
+   * Contribution - Initial PR
+
