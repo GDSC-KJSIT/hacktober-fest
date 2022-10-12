@@ -1,1 +1,6 @@
-### Enter your name college branch and in short what pull request you made for this folder
+Name - Taaha Multani
+College - K J Somaiya College of Engineering and Information Technology
+Branch - COMPS
+Domain - CP
+
+Initial PR
