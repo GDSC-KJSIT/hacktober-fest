@@ -6,3 +6,8 @@
    * Domain - CP
    * Contribution - Initial PR
 
+1. * Name - Divija Kinger
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - COMPS
+   * Domain - CP
+   * Contribution - All Solutions In Java
