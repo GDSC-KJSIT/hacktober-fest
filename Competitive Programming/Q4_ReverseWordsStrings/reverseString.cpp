@@ -6,42 +6,44 @@ using namespace std;
 
 string reverse_words(string s)
 {
-	int left = 0, i = 0, n = s.size();
+    int left = 0, i = 0, n = s.size();
 
-	while (s[i] == ' ')
-		i++;
+    while (s[i] == ' ')
+        i++;
 
-	left = i;
+    left = i;
 
-	while (i < n) {
-		if (i + 1 == n || s[i] == ' ') {
-			int j = i - 1;
-			if (i + 1 == n)
-				j++;
+    while (i < n)
+    {
+        if (i + 1 == n || s[i] == ' ')
+        {
+            int j = i - 1;
+            if (i + 1 == n)
+                j++;
 
-			while (left < j)
-				swap(s[left++], s[j--]);
+            while (left < j)
+                swap(s[left++], s[j--]);
 
-			left = i + 1;
-		}
-		if (i > left && s[left] == ' ')
-			left = i;
+            left = i + 1;
+        }
+        if (i > left && s[left] == ' ')
+            left = i;
 
-		i++;
-	}
-	reverse(s.begin(), s.end());
-	return s;
+        i++;
+    }
+    reverse(s.begin(), s.end());
+    return s;
 }
 
 int main()
 {
 
-	string str;
+    string str;
     getline(cin, str);
 
-	str = reverse_words(str);
+    str = reverse_words(str);
 
-	cout << str;
+    cout << str;
 
-	return 0;
+    return 0;
 }
