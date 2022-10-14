@@ -6,3 +6,8 @@
    * Domain - CP
    * Contribution - Initial PR
 
+2. * Name - Pruthviraj Patil
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - COMPS
+   * Domain - CP
+   * Contribution - Factorial PR
