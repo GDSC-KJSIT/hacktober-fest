@@ -12,7 +12,6 @@
    * Domain - CP
    * Contribution - Factorial PR
 
-
 3. * Name - Divija Kinger
    * College - K J Somaiya College of Engineering and Information Technology, Sion
    * Branch - COMPS
@@ -24,3 +23,9 @@
    * Branch - COMPS
    * Domain - CP
    * Contribution - Solutions in C++
+
+5. * Name - Kartik Raina
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - 
+   * Domain - 
+   * Contribution - factorial.cpp
