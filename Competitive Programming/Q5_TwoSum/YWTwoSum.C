@@ -16,6 +16,16 @@ void main()
     printf("Enter the sum:\n");
     scanf("%d, &sum");
 
-    
+    for(int i = 0; i < n-1; i++)
+    {
+        int b = sum-arr[i];
+        for(int j = i + 1; j < n; j++)
+        {
+            if(arr[j]==b)
+            {
+                printf("%d\t%d", arr[i], b);
+            }
+        }
+    }
 
 }
