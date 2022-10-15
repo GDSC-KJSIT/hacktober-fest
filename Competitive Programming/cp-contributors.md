@@ -29,3 +29,9 @@
    * Branch - 
    * Domain - 
    * Contribution - factorial.cpp
+
+6. * Name - Arya Parikh
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - COMPS
+   * Domain - CP
+   * Contribution - Solutions in Python
