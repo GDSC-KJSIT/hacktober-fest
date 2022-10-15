@@ -29,3 +29,9 @@
    * Branch - 
    * Domain - 
    * Contribution - factorial.cpp
+
+6. * Name - Sarang Kulkarni
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - COMPS
+   * Domain - CP
+   * Contribution - Solved Factorial, Matrix, Reversing string
