@@ -10,7 +10,7 @@
    * College - K J Somaiya College of Engineering and Information Technology, Sion
    * Branch - COMPS
    * Domain - CP
-   * Contribution - Factorial PR
+   * Contribution - Factorial PR, Q7 solution
 
 3. * Name - Divija Kinger
    * College - K J Somaiya College of Engineering and Information Technology, Sion
