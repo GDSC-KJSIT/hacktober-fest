@@ -8,6 +8,6 @@ num = int(input("Enter your number:"))
 if num < 0:
    print("Invalid input!!!")
 elif num == 0:
-   print("Factorial of 0 is 1")
+   print("1")
 else:
-   print("Factorial of", num, "is", r_factorial(num))
+   print(r_factorial(num))
