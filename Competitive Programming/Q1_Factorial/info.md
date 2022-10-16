@@ -1,13 +1,13 @@
-## This file contains necessary information about the problem statement along with Sample Input's and Output's.
+This file contains necessary information about the problem statement along with Sample Input's and Output's.
+Strictly RECURSION to be used.
 
-* Strictly **RECURSION** to be used.
+Sample Input
 
-* Sample Input   
-  * 3
-  * 4
-  * 5
+3
+4
+5
+Sample Output
 
-* Sample Output    
-  * 6
-  * 24
-  * 120
+6
+24
+120

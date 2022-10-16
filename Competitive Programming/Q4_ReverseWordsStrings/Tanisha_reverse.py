@@ -1,16 +1,10 @@
 s=input("Enter a string: ")
 l1=s.split(" ")
 s1=""
+i=0
 
-def reverse(str):
-    s2=""
-    for i in range(len(str)-1,-1,-1):
-        s2=s2+str[i]
-    return s2
-
-
-for str in l1:
-    s1=s1+reverse(str)+" "
+for j in range(len(l1)-1,-1,-1):
+    s1=s1+l1[j]+" "  
 
 print(s1)
     
