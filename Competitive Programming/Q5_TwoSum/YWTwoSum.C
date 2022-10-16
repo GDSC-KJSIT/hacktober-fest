@@ -1,31 +1,55 @@
 #include<stdio.h>
-
-void main()
+#include<stdlib.h>
+int main()
 {
     int sum, n;
     printf("Enter the number of elements in the array:\n");
     scanf("%d", &n);
-    
-    int arr[n];
-    printf("Enter the elements of the array:\n");
+
+    int a[n], m;
     for(int i = 0; i < n; i++)
     {
-        scanf("%d", &arr[i]);
+        a[i]=NULL;
+    }
+
+    printf("Enter the elements of the array:\n");
+    for(int i = 0; i < n; i++)
+    {   int j = 0, key;
+        scanf("%d", &m);
+        do{
+        key = (abs(m) + j) % n;
+            if(a[key] == NULL)
+            {
+            a[key] = m;
+            break;
+            }
+            else
+            {
+                j++;
+            }
+        }while(a[key] != NULL);
     }
 
     printf("Enter the sum:\n");
-    scanf("%d, &sum");
-
-    for(int i = 0; i < n-1; i++)
-    {
-        int b = sum-arr[i];
-        for(int j = i + 1; j < n; j++)
-        {
-            if(arr[j]==b)
+    scanf("%d", &sum);
+    int count=0;
+    for(int i = 0; i < n; i++)
+    {   int key, j = 0;
+        do{
+        int key = ( abs(sum - a[i]) + j) % n;
+            if(a[key] == sum - a[i])
             {
-                printf("%d\t%d", arr[i], b);
+            count++;
+            break;
             }
-        }
-    }
+            else
+            {
+                j++;
+            }
+        }while(a[key] != sum - a[i]);
 
+    }
+    printf("%d", count/2);
+
+return 0;
 }
