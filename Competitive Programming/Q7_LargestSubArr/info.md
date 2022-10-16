@@ -4,13 +4,13 @@
 * Strictly the solution is to be in **O(N)** .
 
 * Sample Input   
-  * 3
+  * 3 <br>
   1 2 -3
 
-  * 5
+  * 5 <br>
   -9 0 6 7 -12
 
-  * 5
+  * 5 <br>
   5 4 -1 7 8 
   
 
