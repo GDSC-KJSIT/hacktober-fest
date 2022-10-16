@@ -43,3 +43,9 @@
    * Domain - CP
    * Contribution - Solved Factorial, Matrix, Reversing string
 
+8. * Name - Abbas Najmi
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - IT
+   * Domain - CP
+   * Contribution - ATN_factorial
+
