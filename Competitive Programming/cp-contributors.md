@@ -54,11 +54,10 @@
    * College - K J Somaiya College of Engineering and Information Technology, Sion
    * Branch - IT
    * Domain - CP
-   * Contribution - ATN_factorial
-  
-10. Name - Rahul Pandharkar
-   * College - K J Somaiya College of Engineering and Information Technology, Sion
-   * Branch - IT
-   * Domain - CP
-   * Contribution - Factorial by recursion (factorial.c)
+   * Contribution - ATN_factorial 
 
+10. * Name - Rahul Pandharkar
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - IT
+    * Domain - CP
+    * Contribution - Factorial using recursion (factorial.c)
