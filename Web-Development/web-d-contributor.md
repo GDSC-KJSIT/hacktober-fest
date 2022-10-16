@@ -1,1 +1,2 @@
-### Enter your name college branch and in short what pull request you made for this folder
+### I am Yatndeep Dubey From B Tech Computer Science and Engineering In VBSPU And I am Outreach Lead at GDSC VBSPU
+### I contribute the project of Static Blog Website 
