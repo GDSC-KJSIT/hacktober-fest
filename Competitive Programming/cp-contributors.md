@@ -49,3 +49,28 @@
    * Domain - CP
    * Contribution - Factorial, Matrix, Arrays, reversing of words, sum of 2 elements, longest substring, sub array
 
+
+9. * Name - Trushil Dhokiya
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - COMPS
+   * Domain - CP
+   * Contribution - Solved CP Q1 Factorial, Q4 reverse string.
+
+10. * Name - Abbas Najmi
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - IT
+   * Domain - CP
+   * Contribution - ATN_factorial 
+
+11. * Name - Rahul Pandharkar
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - IT
+    * Domain - CP
+    * Contribution - Factorial using recursion (factorial.c)
+
+12. * Name - Dhyey Shah
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - COMPS
+    * Domain - CP
+    * Contribution - Solved Q1, Q2, Q3, Q4 and Q5 from CP domain using Python
+
