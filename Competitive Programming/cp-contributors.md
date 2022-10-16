@@ -61,3 +61,9 @@
     * Branch - IT
     * Domain - CP
     * Contribution - Factorial using recursion (factorial.c)
+
+11. * Name - Dhyey Shah
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - COMPS
+    * Domain - CP
+    * Contribution - Solved Q1, Q2, Q3, Q4 and Q5 from CP domain using Python
