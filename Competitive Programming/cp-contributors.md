@@ -61,3 +61,9 @@
     * Branch - IT
     * Domain - CP
     * Contribution - Factorial using recursion (factorial.c)
+
+11. * Name - Krishna Agrawal
+    * College - KIET Group Of Institutions
+    * Branch - CSE
+    * Domain - CP
+    * Contribution - Factorial using recursion (Factorial_Recursion.c)
