@@ -61,10 +61,3 @@
     * Branch - IT
     * Domain - CP
     * Contribution - Factorial using recursion (factorial.c)
-
-11. * Name - Shivam Thakkar
-   * College - K J Somaiya College of Engineering and Information Technology, Sion
-   * Branch - COMPS
-   * Domain - CP
-   * Contribution - Reversing string, Two Sum
-
