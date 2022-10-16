@@ -43,3 +43,9 @@
    * Domain - CP
    * Contribution - Solved Factorial, Matrix, Reversing string
 
+8. * Name - Trushil Dhokiya
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - COMPS
+   * Domain - CP
+   * Contribution - Solved CP Q1 Factorial.
+
