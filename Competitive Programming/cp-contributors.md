@@ -47,5 +47,5 @@
    * College - K J Somaiya College of Engineering and Information Technology, Sion
    * Branch - COMPS
    * Domain - CP
-   * Contribution - Solved CP Q1 Factorial.
+   * Contribution - Solved CP Q1 Factorial, Q4 reverse string.
 
