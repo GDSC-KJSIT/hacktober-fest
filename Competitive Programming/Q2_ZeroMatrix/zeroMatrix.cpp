@@ -1,3 +1,9 @@
+/*
+ Author : Kartik Raina 
+ Language : C++
+ college : KJSIEIT
+*/
+
 #include <iostream>
 #include <vector>
 
