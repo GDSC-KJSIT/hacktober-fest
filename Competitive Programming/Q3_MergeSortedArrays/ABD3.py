@@ -1,0 +1,12 @@
+n = int(input())
+arr1 = []
+arr1= [int(item) for item in input().split()]
+m = int(input())
+arr2 = []   
+arr2= [int(item) for item in input().split()]
+arr3 = arr1 + arr2
+arr3 = sorted(arr3)
+arr1 = arr3[0:n]
+print("arr1 = ",arr1)
+arr2 = arr3[n:]
+print("arr2 = ",arr2)
