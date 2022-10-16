@@ -30,6 +30,12 @@
    * Domain - 
    * Contribution - factorial.cpp
 
+6. * Name - Shivam Thakkar
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - COMPS
+   * Domain - CP
+   * Contribution - Reverse Words, Two Sum
+
 
 6. * Name - Arya Parikh
    * College - K J Somaiya College of Engineering and Information Technology, Sion
