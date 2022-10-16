@@ -43,7 +43,14 @@
    * Domain - CP
    * Contribution - Solved Factorial, Matrix, Reversing string
 
-8. * Name - Abbas Najmi
+
+8. * Name - Trushil Dhokiya
+   * College - K J Somaiya College of Engineering and Information Technology, Sion
+   * Branch - COMPS
+   * Domain - CP
+   * Contribution - Solved CP Q1 Factorial, Q4 reverse string.
+
+9. * Name - Abbas Najmi
    * College - K J Somaiya College of Engineering and Information Technology, Sion
    * Branch - IT
    * Domain - CP
