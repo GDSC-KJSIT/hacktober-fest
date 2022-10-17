@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NewsRead</title>
+    <!-- bootstrap css  -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+    <!-- custom css  -->
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+<body>
+    
+    <section id="Navigation">
+        <nav class="navbar navbar-expand-lg navbar-dark nav-css">
+            <a class="navbar-brand" href="#">News<span class="yellow-text">READ</span></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navLists">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navLists">
+                <ul class=" ms-auto p-1 navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link"  id="Technology" href="#Technology">Technology</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"  id="business" href="#business">Buisness</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"  id="sports" href="#sports">Sports</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link"  id="Entertainment" href="#Entertainment">Entertainment</a>
+                    </li>
+                </ul>
+                <form class="d-flex form-search" role="search">
+                    <input class="form-control me-2" id="newsQuery"type="search" placeholder="Search here..." >
+                    <button class="btn btn-outline-warning" type="submit" id="search-btn">Search</button>
+                </form>
+            </div>
+        </nav>
+    </section>
+
+    <!-- news section  -->
+    <section id="news">
+        
+        <div class="row" id="newsType"></div>
+        <div class="row" id="newsdetails"></div>
+        
+    </section>
+
+
+    <!-- footer  -->
+    <section id="footer">
+        <h2 class="footer-h2">Follow us</h2>
+        <div class="social-media">
+            <a class="fa-brands fa-twitter brand-icons" href="">
+
+            </a>
+            <a class="fa-brands fa-facebook-f brand-icons" href="">
+
+            </a>
+            <a class="fa-brands fa-instagram brand-icons" href="">
+
+            </a>
+            <a class="fa-solid fa-envelope brand-icons" href="">
+
+            </a>
+        </div>
+        <p class="footer-text">&copy; Copyright 2022</p>
+    </section>
+
+    <!-- bootstrap js  -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js" integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk" crossorigin="anonymous"></script>
+    <!-- custom js  -->
+    <script src="js/script.js"></script>
+    <!-- fontawesome  -->
+    <script src="https://kit.fontawesome.com/a056417e9d.js" crossorigin="anonymous"></script>
+</body>
+</html>
