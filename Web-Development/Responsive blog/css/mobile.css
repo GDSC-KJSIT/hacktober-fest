@@ -1,0 +1,43 @@
+@media screen and (max-width: 1200px) {
+    .navigation {
+        flex-direction: column;
+        margin-bottom: 24px;
+    }
+    .nav-left {
+        flex-direction: column;
+        text-align: center;
+    }
+    .nav-left ul {
+        font-size: 20px;
+    }
+    .nav-right {
+        padding-top: 14px;
+    }
+    .content-right {
+        display: none;
+    }
+    .home-article {
+        flex-direction: column;
+    }
+    .home-article-img {
+        text-align: center;
+    }
+    .home-article img {
+        width: 70vw;
+    }
+    .form-input {
+        width: 50%;
+    }
+    .form-box input, textarea {
+        width: 66vw;
+    }
+    .row {
+        flex-direction: column;
+    }
+    .social {
+        padding: 0;
+    }
+    .post-img {
+        height: auto;
+    }
+}
