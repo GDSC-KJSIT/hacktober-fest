@@ -1,4 +1,3 @@
-## This file contains necessary information about the problem statement along with Sample Input's and Output's.
 
 
 * Sample Input   
@@ -11,6 +10,18 @@
   
   
   
+
+
+
+
+
+
+
+
+  
+  
+  
+
 
 
 

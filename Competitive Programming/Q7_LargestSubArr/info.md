@@ -19,4 +19,3 @@
   * 13
   * 23
 
-# Hint : Kdane's algorithm is to be used.
