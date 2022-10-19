@@ -68,3 +68,5 @@ git push origin branch-name
 * 2. For Competetive programming questions add files (any language) into the respective folder
 
 * 3. Last step is to add your name and details in the md file in the respective folder
+
+* 4. Test cases for competitive programming questions are mentioned in info.md file
