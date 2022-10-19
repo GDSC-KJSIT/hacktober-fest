@@ -93,3 +93,9 @@
     * Domain - CP
     * Contribution - YWFactorial.c, YWZeroMatrix.c, YWLargestSubArr.c
 
+15. * Name - Samyak Jasani
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - COMPS
+    * Domain - CP
+    * Contribution - CP - factorial(Q1) solved using Python
+
