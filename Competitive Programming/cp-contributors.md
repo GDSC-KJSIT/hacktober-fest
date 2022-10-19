@@ -68,14 +68,22 @@
     * Domain - CP
     * Contribution - Factorial using recursion (factorial.c)
 
-12. * Name - Dhyey Shah
+
+12. * Name - Krishna Agrawal
+    * College - KIET Group Of Institutions
+    * Branch - CSE
+    * Domain - CP
+    * Contribution - Factorial using recursion (Factorial_Recursion.c)
+
+13. * Name - Dhyey Shah
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
     * Contribution - Solved Q1, Q2, Q3, Q4 and Q5 from CP domain using Python
 
-13. * Name - Yatharth Wazir
+14. * Name - Yatharth Wazir
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
     * Contribution - YWFactorial.c, YWZeroMatrix.c, YWLargestSubArr.c
+
