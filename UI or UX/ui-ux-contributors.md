@@ -14,4 +14,9 @@
     * Branch - COMPS
     * Domain - UI/UX
     * Contribution - YW Fintech Company Logo
-
+    * 
+3.  * Name - Manak Rawal
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - COMPS
+    * Domain - UI/UX
+    * Contribution - Shuffle Fintech Logo
