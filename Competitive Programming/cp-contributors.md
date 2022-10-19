@@ -54,7 +54,7 @@
    * College - K J Somaiya College of Engineering and Information Technology, Sion
    * Branch - COMPS
    * Domain - CP
-   * Contribution - Solved CP Q1 Factorial, Q4 reverse string.
+   * Contribution - Solved CP Q1 Factorial, Q4 reverse string,Q6 Non repeating Longest substring.
 
 10. * Name - Abbas Najmi
    * College - K J Somaiya College of Engineering and Information Technology, Sion
