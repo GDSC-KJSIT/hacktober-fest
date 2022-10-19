@@ -80,3 +80,10 @@
     * Branch - COMPS
     * Domain - CP
     * Contribution - Solved Q1, Q2, Q3, Q4 and Q5 from CP domain using Python
+
+14. * Name - Yatharth Wazir
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - COMPS
+    * Domain - CP
+    * Contribution - YWFactorial.c, YWZeroMatrix.c, YWLargestSubArr.c
+
