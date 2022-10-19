@@ -1,0 +1,45 @@
+body{
+    text-align:center;
+}
+/* navbar section  */
+.navbar-brand{
+    margin: 0 1%;
+}
+.nav-link{
+    margin: 0px 20px;
+    color: rgb(255, 218, 8);
+}
+.form-search{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.navbar-collapse,collapse{
+    text-align: left;
+}
+.nav-css{
+    background-color: black;
+}
+.yellow-text{
+    color:rgb(255, 218, 8);
+    font-weight: bold;
+}
+/* footer section  */
+#footer{
+    background-color: black;
+    padding: 3% 7%;
+}
+.footer-text{
+    color: rgb(255, 218, 8);
+}
+.footer-h2{
+    margin-bottom: 2%;
+    color: yellow;
+}
+.social-media{
+    margin-bottom: 2%;
+}
+.brand-icons{
+    margin: 0% 1%;
+    color: rgb(255, 218, 8);
+    text-decoration: none;
+}
