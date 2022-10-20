@@ -1,1 +1,6 @@
-### Enter your name college branch and in short what pull request you made for this folder
+{
+  Name: Dellucifer,
+  College: SLIET,
+  Branch: ECE,
+  Changes: Added IPV4 to Decimal IP GUI application
+}
