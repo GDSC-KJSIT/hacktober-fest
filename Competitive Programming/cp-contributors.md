@@ -41,7 +41,7 @@
    * College - K J Somaiya College of Engineering and Information Technology, Sion
    * Branch - COMPS
    * Domain - CP
-   * Contribution - Solved Factorial, Matrix, Reversing string
+   * Contribution - Solved Factorial, Matrix, Reversing string, two-sum, longestSubArray and News API website
 
 8. * Name - Tanisha Kaur
    * College - K J Somaiya College of Engineering and Information Technology, Sion
