@@ -97,7 +97,7 @@
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - CP - factorial(Q1) solved using Python
+    * Contribution - CP - Q1, Q2 solved using Python
 16. * Name - Mayank Mahajan
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
