@@ -79,7 +79,7 @@
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - Solved Q1, Q2, Q3, Q4, Q5 and Q6 from CP domain using Python
+    * Contribution - Solved Q1, Q2, Q3, Q4, Q5, Q6 and Q7 from CP domain using Python
     * 
 13. * Name - Abdurrahman Chauhan
     * College - K J Somaiya College of Engineering and Information Technology, Sion
