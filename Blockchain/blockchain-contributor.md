@@ -5,4 +5,4 @@
    - College - K J Somaiya Institute of Engineering and Information Technology, Sion
    - Branch - COMPS
    - Domain - Blockchain
-   - Contribution - Lottery, Ecommerce and NFT contracts.
+   - Contribution - Lottery, Ecommerce, NFT and ERC20 Contracts.
