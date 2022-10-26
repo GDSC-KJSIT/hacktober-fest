@@ -103,4 +103,9 @@
     * Branch - COMPS
     * Domain - CP
     * Contribution - JAVA - factorial(Q1) solved using Java
+17. * Name - Pruthviraj
+    * College - VCK
+    * Branch - COMPS
+    * Domain - CP
+    * Contribution - JAVA - factorial(Q1) solved using Java
 
