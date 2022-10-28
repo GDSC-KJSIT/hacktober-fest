@@ -91,7 +91,7 @@
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - YWFactorial.c, YWZeroMatrix.c, YWLargestSubArr.c
+    * Contribution - YWFactorial.c, YWZeroMatrix.c, YWReverseString.py, YWNonRepeat.py, YWLargestSubArr.c
 
 15. * Name - Samyak Jasani
     * College - K J Somaiya College of Engineering and Information Technology, Sion
