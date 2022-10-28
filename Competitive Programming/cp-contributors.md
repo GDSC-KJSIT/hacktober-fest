@@ -109,3 +109,8 @@
     * Domain - CP
     * Contribution - JAVA - factorial(Q1) solved using Java
 
+15. * Name - Priyanshu Giriyan
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - COMPS
+    * Domain - CP
+    * Contribution - Factorial, ZeroMatrix, MergeSortedArrays, ReverseWordsStrings in Java
