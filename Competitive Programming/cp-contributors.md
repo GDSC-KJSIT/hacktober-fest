@@ -102,7 +102,8 @@
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - JAVA - factorial(Q1) solved using Java
+    * Contribution - JAVA - factorial(Q1), Reverse Word String(Q4) solved using Java
+    
 17. * Name - Pruthviraj
     * College - VCK
     * Branch - COMPS
