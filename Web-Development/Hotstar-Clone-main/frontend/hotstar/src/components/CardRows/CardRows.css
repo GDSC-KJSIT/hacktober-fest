@@ -1,0 +1,80 @@
+
+.card-container{
+    display: flex;
+    height: 310px;
+    gap: 10px;
+    overflow: scroll;
+    align-items: center;   
+    border-radius: 10px; 
+    scroll-behavior: smooth;
+}
+.row-title{
+ margin-top: 10px;
+ margin-left: 35px;
+}
+
+.row-title h2{
+    margin: 0px 0px;
+}
+.card-container::-webkit-scrollbar {
+    display: none;
+  }
+
+@media only screen and (max-width:667px) {
+    .card-container{
+        display: flex;
+        height: 170px;
+        gap: 10px;
+        overflow: scroll;
+        align-items: center;   
+        border-radius: 4px 4px 4px 4px; 
+    }
+    .row-title{
+     margin-top: 1px;
+     margin-left: 15px;
+    }
+    
+    .row-title h2{
+        margin: 0px 0px;
+    }
+    .card-container::-webkit-scrollbar {
+        display: none;
+      }
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px){
+    .card-container{
+        display: flex;
+        height: 170px;
+        gap: 10px;
+        overflow: scroll;
+        align-items: center;   
+        border-radius: 4px 4px 4px 4px; 
+    }
+    .row-title{
+     margin-top: 1px;
+     margin-left: 15px;
+    }
+    
+    .row-title h2{
+        margin: 0px 0px;
+    }
+    .card-container::-webkit-scrollbar {
+        display: none;
+      }
+}
+.left-btn{
+    position: absolute;
+    z-index: 3;
+}
+.right-btn{
+    position: absolute;
+    right: 0;
+    z-index: 2;
+}
+.right-btn:hover{
+    transform: scale(1.3);
+}
+.left-btn:hover{
+    transform: scale(1.3);
+}

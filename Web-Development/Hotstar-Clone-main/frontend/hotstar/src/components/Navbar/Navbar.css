@@ -1,0 +1,109 @@
+.nav{
+    height: 75px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    background-color: #131a27;
+    justify-content: space-between;
+    color: rgb(209, 209, 209);
+    font-weight: 600;
+    font-size: 18px;
+}
+.nav-left{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-left: 50px;
+}
+.nav-right{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-right: 110px;
+}
+
+.nav-left>div{
+    cursor: pointer;
+}
+.nav-left a:hover{
+    color: white;
+}
+.nav-right>div{
+    cursor: pointer;
+}
+.disney-img{
+    width: 150px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.dropdown{
+    position: relative;
+    list-style-type:none;
+}
+.dropdown ul{
+    position: absolute;
+    z-index: 1;
+    
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    list-style: none;
+    background-color: #0b1529;
+    opacity: 0;
+    transition: all 0.4s ease;
+    pointer-events: none;
+    transform: translateY(-10px);
+    list-style-type:none;
+    
+}
+.dropdown li{
+    height: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 90%;
+    list-style: none;
+    padding-left: 10%;
+    
+}
+.dropdown li:hover{
+    background-color:#000000;
+}
+
+.dropdown:hover  ul{
+    opacity: 1;
+    pointer-events: all;
+    transform: translateY(0px);
+}
+body, ul, li {
+    margin:0;
+    padding:0;
+   }
+
+   @media only screen and (max-width:667px) {
+       .dropdown{
+           display: none;
+       }
+       .small{
+           display: none;
+       }
+       .nav-left{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        margin-left: 20px;
+    }
+    .nav-right{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        margin-right: 50px;
+    }
+   }
+    .input-div>input,.otp-inp{
+        outline: none;
+    }
