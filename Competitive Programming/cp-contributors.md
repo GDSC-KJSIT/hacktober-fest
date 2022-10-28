@@ -91,16 +91,27 @@
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - YWFactorial.c, YWZeroMatrix.c, YWLargestSubArr.c
+    * Contribution - YWFactorial.c, YWZeroMatrix.c, YWReverseString.py, YWNonRepeat.py, YWLargestSubArr.c
 
 15. * Name - Samyak Jasani
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - CP - factorial(Q1) solved using Python
+    * Contribution - CP - Q1, Q2, Q4 solved using Python
 16. * Name - Mayank Mahajan
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
     * Contribution - JAVA - factorial(Q1), Reverse Word String(Q4) solved using Java
+    
+17. * Name - Pruthviraj
+    * College - VCK
+    * Branch - COMPS
+    * Domain - CP
+    * Contribution - JAVA - factorial(Q1) solved using Java
 
+15. * Name - Priyanshu Giriyan
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - COMPS
+    * Domain - CP
+    * Contribution - Factorial, ZeroMatrix, MergeSortedArrays, ReverseWordsStrings in Java
