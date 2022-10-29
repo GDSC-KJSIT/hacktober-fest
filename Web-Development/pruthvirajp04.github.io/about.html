@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" property="og:description"
+    content="I am a Web Developer|Student|Competetive Programmer">
+
+  <meta name="author"
+    content="Pruthviraj Patil">
+    <title>Pruthviraj Patil</title>
+    <link rel="icon" type="image/x-icon" href="../static/img/favicon.JPG">
+    <link rel="stylesheet" href="./static/css/aboutstyle.css">
+    <!-- <link rel="stylesheet" href="./static/css/about-responsive.css"> -->
+    <link rel="stylesheet" href="./static/css/scroller.css">
+    <link rel="stylesheet" href= "./static/css/navbar.css">
+    <link rel="stylesheet" href="./static/css/theme.css">
+    <link rel="stylesheet" href= "./static/css/footer.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="../js/menu.js"></script>
+    <script src="../js/reuse.js"></script>  
+    <script src="./js/theme.js"></script>
+
+</head>
+<body>
+   <div id="header"></div>
+   <div id="theme"></div>
+    <div class="intro1" >
+        <div class="name-at-top" >
+            <h1  class="typing" id="first-intro"> </h1>
+
+        </div>
+       
+    </div>
+    
+    <div class="my-intro">
+        <div class="myphoto">
+            <img src="../static/img/myphoto.jpg" alt="My-Photo">
+        </div>
+        <div class="intro-box">
+           
+            <h1>
+                Hello ! My name is Pruthviraj Patil . And yes I do believe in miracles ❤️. I am 
+
+            </h1>
+
+           <li>A full stack web developer and I can develop fast, secure and fully responsive websites. 😃 </li> 
+           <li>
+
+               Familiar with MERN stack
+           </li>
+           <li> A professional 
+            <a href="https://www.chess.com/member/pruthvirajpatil04" target="_blank">
+                Chess Player 
+            </a>   
+           (Blitz and Rapid)♟️ </li>
+           <li> A student, currently pursuing Computer Engineering . 📚</li>
+           <p >
+
+               Apart from this,  I have a good interest in Competetive Programming.
+                   Check out my <a href="https://www.codechef.com/users/pruthvirajp" target="_blank">CodeChef Profile</a> .
+              
+           </p>
+           <p>
+               <a href="./contact.html">Contact Me</a> for a freelance work or any web services.
+           </p>
+      
+
+        </div>
+    </div>
+    <div id="footer"></div>
+</body>
+</html>
+    <script>
+        var i = 0;
+        var txt = 'About Me .... ';
+        var speed = 110;
+        
+        (function typeWriter() {
+          if (i < txt.length) {
+            document.getElementById("first-intro").innerHTML += txt.charAt(i);
+            i++;
+            setTimeout(typeWriter, speed);
+          }
+        }) ();
+        </script>

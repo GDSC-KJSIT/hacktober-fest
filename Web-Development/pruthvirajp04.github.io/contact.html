@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" property="og:description"
+    content="I am a Web Developer|Student|Competetive Programmer">
+
+  <meta name="author"
+    content="Pruthviraj Patil">
+    <title>Pruthviraj Patil</title>
+    <link rel="icon" type="image/x-icon" href="./static/img/favicon.JPG">
+    <link rel="stylesheet" href="./static/css/contactstyle.css">
+    <link rel="stylesheet" href="./static/css/scroller.css">
+    <link rel="stylesheet" href="./static/css/footer.css">
+    <link rel="stylesheet" href="./static/css/navbar.css">
+    <link rel="stylesheet" href="./static/css/theme.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="../js/menu.js"></script>
+    <script src="../js/reuse.js"></script>
+    <script src="./js/theme.js"></script>
+</head>
+<body>
+    <div id="header"></div>
+    
+    <div id="theme"></div>
+    <div class="intro1" >
+       
+            <h1  class="typing" id="first-intro"> </h1>
+
+        </div>
+       
+    </div>
+   
+    <div id="contact">
+        <div class="head-apply">
+            <h2>
+
+                Why wait! Message directly here . Explain your query, suggestions,and much more...
+            </h2>
+        </div>
+        <div class="main-form">
+          <h2>
+            Fill out the details below
+
+          </h2>
+          <form
+          action="https://formspree.io/f/moqrvnaa"
+          method="POST"
+        >
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Enter First Name.." autocomplete="off" required>
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Enter Last Name.." autocomplete="off" required>
+
+    <label for="email">Email </label>
+    <input type="email" name="email" id="" placeholder="Enter Email Address" required>
+    <label for="message">Your message</label>
+    <input type="text" id="msg" name="message" placeholder="Your message here ..." autocomplete="off" required>
+       <div class="final-box">
+           <div class="submit-box">
+
+               <button type="submit" class="btn"> SUBMIT</button>
+          </div>
+          <div class="reset-box">
+              <button type="reset" class="btn">RESET</button>
+          </div>
+      </div>
+      
+  </form>
+        </div>
+    </div>  
+    <div id="footer">
+
+    </div>
+    <script>
+        var i = 0;
+        var txt = 'Contact Form';
+        var speed = 110;
+        
+        (function typeWriter() {
+          if (i < txt.length) {
+            document.getElementById("first-intro").innerHTML += txt.charAt(i);
+            i++;
+            setTimeout(typeWriter, speed);
+          }
+        }) ();
+        </script>
+</body>
+</html>

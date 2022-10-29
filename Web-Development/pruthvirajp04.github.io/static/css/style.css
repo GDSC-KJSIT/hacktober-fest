@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Quicksand:wght@300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Oswald:wght@300&family=Quicksand:wght@300;600&family=Roboto:ital@1&display=swap');
+/* *{
+    background-color: rgb(209, 205, 192);
+} */
+
+
+.typing::after{
+    content: " ";
+    border-right: 2px solid black;
+    animation: blink 0.5s infinite ease;
+}
+@keyframes blink{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}

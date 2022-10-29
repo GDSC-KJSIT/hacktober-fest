@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Oswald:wght@300&family=Quicksand:wght@300;600&family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Oswald:wght@300&family=Quicksand:wght@300;600&family=Roboto+Mono:wght@300&family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Libre+Franklin&family=Orbitron&family=Oswald:wght@300&family=Quicksand:wght@300;600&family=Roboto+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Orbitron&family=Oswald:wght@300&family=Quicksand:wght@300;600&family=Roboto+Mono:wght@300&family=Taviraj&display=swap');
+
+@media only screen and (min-width : 0px) and (max-width : 799px)
+{
+   
+ 
+    #first-intro{
+    font-family: 'Quicksand', sans-serif;
+
+        font-size: 3.3rem;
+    }
+    .intro1{
+        text-align: center;
+        margin-top: 2rem;
+          display: flex;
+          flex-direction: column;
+      }
+      .name-at-top{
+          font-size: 20px;
+          /* border: 2px solid blue; */
+          
+      }
+      .head-of-me{
+          font-size: 1rem;
+      }
+      .intro2{
+        font-family: 'Roboto', sans-serif;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .intrologo{
+        margin-top:20px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .intrologo img{
+        width: 4rem;
+        height: 4rem;
+        border-radius: 50%;
+    
+   
+        border: 5px solid black;
+    }
+    .intrologo img:hover{ opacity: 0.7; }
+   
+    .foot-of-logo{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 23px;
+    }
+    .foot-of-logo a{
+        /* margin-top : 23px; */
+     text-decoration: none;
+     color: black; 
+     font-size: 20px;  
+    }
+    
+    
+   
+      
+}
+
+@media only screen and (min-width : 800px) 
+{
+   
+ 
+    #first-intro{
+    font-family: 'Quicksand', sans-serif;
+
+        font-size: 4.3rem;
+    }
+    .intro1{
+        text-align: center;
+        margin-top: 2rem;
+          display: flex;
+          flex-direction: column;
+      }
+      .name-at-top{
+          font-size: 20px;
+          /* border: 2px solid blue; */
+          
+      }
+      .head-of-me{
+          font-size: 1.5rem;
+      }
+      .intro2{
+        font-family: 'Roboto', sans-serif;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .intrologo{
+        margin-top:20px;
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .intrologo img{
+        width: 6rem;
+        height: 6rem;
+        border-radius: 50%;
+    
+   
+        border: 5px solid black;
+    }
+    .intrologo img:hover{ opacity: 0.7; }
+   
+    .foot-of-logo{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 23px;
+    }
+    .foot-of-logo a{
+        /* margin-top : 23px; */
+     text-decoration: none;
+     color: black; 
+     font-size: 20px;  
+    }
+    
+    
+   
+      
+}
+
+
