@@ -21,3 +21,12 @@
    * Domain - Web Development
    * Contribution - made interactive Static Blog Website
 
+4. * Name - Pruthviraj 
+   * College - VCK
+   * Branch - COMPS
+   * Domain - Web Development
+   * Contribution - made responsive personal portfolio blog
+
+
+
+
