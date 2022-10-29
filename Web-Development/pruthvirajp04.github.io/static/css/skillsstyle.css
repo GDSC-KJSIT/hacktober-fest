@@ -1,0 +1,77 @@
+
+.main-head{
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+  background-color: rgb(0, 0, 0);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+}
+.logo{
+    
+    margin:10px
+
+  
+}
+.navbar{
+  font-family: sans-serif;
+    /* position: relative; */
+    
+  
+    margin-bottom: 23px;
+    margin-top: 12px;
+    margin-right: 12px;
+  
+    display: flex;
+    list-style: none;
+  
+}
+.navbar a li{
+  margin: 12px 12px;
+  font-size: 19px;
+}
+.navbar a{
+    color: rgb(231, 184, 184);
+    font-size: 24px;
+ text-decoration: none;
+}
+.navbar a:hover
+{text-decoration: underline; 
+    color: rgb(219, 189, 16);
+}
+.logo img{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+}
+.active{
+    color: rgb(219, 189, 16);
+    font-size: 25px;
+    text-decoration: underline;
+}
+.menu1{
+    margin-top: 20px ;
+    width: 70px;
+    height: 65px;
+    /* border: 2px solid red; */
+ 
+}
+.menu1 img{
+    cursor: pointer;
+}
+.typing::after{
+    content: " ";
+    border-right: 2px solid black;
+    animation: blink 0.5s infinite ease;
+}
+@keyframes blink{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}

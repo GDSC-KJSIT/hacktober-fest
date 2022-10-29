@@ -1,0 +1,75 @@
+*{
+  user-select: none;
+}
+body{
+    height: 100%;
+    /* background-color: black; */
+}
+
+.typing::after{
+    content: " ";
+    border-right: 2px solid black;
+    animation: blink 0.5s infinite ease;
+}
+@keyframes blink{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.my-intro{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.myphoto{
+    /* border: 2px solid blue ; */
+    padding: 12px 12px;
+}
+.myphoto img{
+    border:  5px solid black;
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+}
+.intro-box{
+    border: 2px solid rgb(27, 27, 26);
+    border-radius: 12px;
+    font-size: 25px;
+    padding: 12px ;
+    margin: 10px;
+   
+    
+}
+.intro-box h1{
+    text-align: center;
+   font-family: cursive;
+   color: rgb(5, 1, 68);
+}
+.intro-box li,p{
+   font-family: monospace;
+}
+.intro-box a{
+    text-decoration: none;
+    font-weight: bold;
+    color: brown;
+}
+.intro-box a:hover{
+    text-decoration: underline;
+}
+.intro1{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+     
+   
+      font-size: 2rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+  }
+  .dark-mode{
+      background-color: blue;
+  }
