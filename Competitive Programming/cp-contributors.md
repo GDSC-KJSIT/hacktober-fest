@@ -120,4 +120,4 @@
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - Solved Q1,Q4,Q5 from CP domain  
+    * Contribution - Solved Q1,Q4,Q5,Q6 from CP domain  
