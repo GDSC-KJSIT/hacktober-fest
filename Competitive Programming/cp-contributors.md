@@ -79,28 +79,52 @@
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - Solved Q1, Q2, Q3, Q4 and Q5 from CP domain using Python
+    * Contribution - Solved Q1, Q2, Q3, Q4, Q5, Q6 and Q7 from CP domain using Python
     * 
-13. * Name - Abdurrahman Chauhan
+14. * Name - Abdurrahman Chauhan
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - IT
     * Domain - CP
     * Contribution - Solved All from CP domain using Python
 
-14. * Name - Yatharth Wazir
+15. * Name - Yatharth Wazir
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - YWFactorial.c, YWZeroMatrix.c, YWLargestSubArr.c
+    * Contribution - YWFactorial.c, YWZeroMatrix.c, YWReverseString.py, YWNonRepeat.py, YWLargestSubArr.c
 
-15. * Name - Samyak Jasani
+16. * Name - Samyak Jasani
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - CP - factorial(Q1) solved using Python
+    * Contribution - CP - Q1, Q2, Q4 , Q6 solved using Python
+    
+17. * Name - Mayank Mahajan
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - COMPS
+    * Domain - CP
+    * Contribution - JAVA - factorial(Q1), Reverse Word String(Q4) solved using Java
+    
+18. * Name - Pruthviraj
+    * College - VCK
+    * Branch - COMPS
+    * Domain - CP
+    * Contribution - JAVA - factorial(Q1) solved using Java
 
-15. * Name - Priyanshu Giriyan
+19. * Name - Priyanshu Giriyan
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
     * Contribution - Factorial, ZeroMatrix, MergeSortedArrays, ReverseWordsStrings, TwoSum, NonRepeatLongestSubstring, LargestSubArr in Java
+
+20. * Name - Zia Dongri
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - EXTC
+    * Domain - CP
+    * Contribution - cp1 in c; cp3, cp4, cp7 in python.
+
+21. * Name - Siddhanth Shah
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - COMPS
+    * Domain - CP
+

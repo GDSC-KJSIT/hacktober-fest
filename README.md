@@ -54,7 +54,8 @@ git push origin branch-name
 ### E. Blockchain
 * 1. Write a lottery smart contract using solidity language
 * 2. Write an ecommerce smart contract using solidity language
-* 3. Create a smart contract for generating NFTs when registered products are bought by buyers.
+* 3. Write a smart contract for creating a NFT
+* 4. Write a smart contract for generating ERC-20 tokens
 
 ### F. UI/UX
 * 1. Design a logo for a Fintech company.
