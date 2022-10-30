@@ -115,8 +115,8 @@
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - Factorial, ZeroMatrix, MergeSortedArrays, ReverseWordsStrings in Java
-   
+    * Contribution - Factorial, ZeroMatrix, MergeSortedArrays, ReverseWordsStrings, TwoSum, NonRepeatLongestSubstring, LargestSubArr in Java
+
 20. * Name - Zia Dongri
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - EXTC
@@ -127,4 +127,4 @@
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - COMPS
     * Domain - CP
-    * Contribution - Solved Q1,Q4,Q5,Q6 from CP domain 
+
