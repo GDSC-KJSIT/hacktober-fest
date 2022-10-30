@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pruthviraj Patil</title>
+    <link rel="icon" type="image/x-icon" href="../static/img/favicon.JPG">
+    <link rel="stylesheet" href="../static/css/skillsstyle.css">
+    <script src="../js/menu.js"></script>
+    <link rel="stylesheet" href="../static/css/skills-responsive.css">
+
+
+</head>
+<body>
+   
+   
+    <div class="main-head">
+        <div class="logo">
+        <a href="./about.html">    <img src="../static/img/favicon.JPG" alt="Logo"></a>
+        </div>
+        <div class="navbar" id="main-nav">
+            <a href="../index.html" id="anc-home"> <li  >HOME</li></a>
+            <a href="./about.html" id="anc-about"> <li >ABOUT</li></a>
+            <a href="./skills.html" id="anc-skills">  <li class="active" >SKILLS</li></a> 
+            <a href="./contact.html" id="anc-contact">  <li>CONTACT</li></a>
+          
+        </div>
+        <div class="menu1">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAAsElEQVRoge3WQQrCMBSE4Xk5R117CG/gQbLrgXoSr+A97M6127xuWmjEKAWxT/g/KE1DAhMoZCQAAP6YrT9O18fZrAwudZ82enGV4vL5KU/v9+P2/tZ4NipZvvfHyzKRqtPEDi9JndyH9UR1gODhl5CH5gHCh3+h/oWkMXx40615AE8pS/WCcOFdub0AAH6NLkQX2nqp0YX2Dk8XAoBvogvRhbZeanShvcPThQAACGQCdDgRWQ5hfYsAAAAASUVORK5CYII=" id="menuid" onclick="func()"/>
+        </div>
+    </div>
+    <div class="intro1" >
+        <div class="name-at-top" >
+            <h1  class="typing" id="first-intro"> </h1>
+
+        </div>
+
+</body>
+</html>
+<script>
+    var i = 0;
+    var txt = 'Skills And Interests ...  ';
+    var speed = 110;
+    
+    (function typeWriter() {
+      if (i < txt.length) {
+        document.getElementById("first-intro").innerHTML += txt.charAt(i);
+        i++;
+        setTimeout(typeWriter, speed);
+      }
+    }) ();
+   
+    </script>
