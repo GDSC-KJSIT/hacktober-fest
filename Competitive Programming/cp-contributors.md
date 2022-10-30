@@ -122,3 +122,9 @@
     * Branch - EXTC
     * Domain - CP
     * Contribution - cp1 in c; cp3, cp4, cp7 in python.
+
+21. * Name - Siddhanth Shah
+    * College - K J Somaiya College of Engineering and Information Technology, Sion
+    * Branch - COMPS
+    * Domain - CP
+    * Contribution - Solved Q1,Q4,Q5,Q6 from CP domain 
