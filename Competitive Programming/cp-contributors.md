@@ -121,7 +121,7 @@
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - EXTC
     * Domain - CP
-    * Contribution - cp1 in c; cp3, cp4, cp7 in python.
+    * Contribution - cp1 in c; cp2, cp3, cp4, cp5, cp6 in python; cp7 in cpp
 
 21. * Name - Siddhanth Shah
     * College - K J Somaiya College of Engineering and Information Technology, Sion
