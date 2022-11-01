@@ -66,7 +66,7 @@
     * College - K J Somaiya College of Engineering and Information Technology, Sion
     * Branch - IT
     * Domain - CP
-    * Contribution - Factorial using recursion (factorial.c)
+    * Contribution - Factorial using recursion (factorial.c), Zero in Matrix (zero_in_matrix.c), Largest SubArray (largest_sub_array.c)
 
 
 12. * Name - Krishna Agrawal
